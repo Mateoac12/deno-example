@@ -1,12 +1,4 @@
-import {
-  bgBrightBlack,
-  bgGreen,
-  bgYellow,
-  black,
-  blue,
-  bold,
-  red,
-} from './deps/colors.js'
+import { bgBrightBlack, bgGreen, bgYellow, black, blue, bold, red } from 'color'
 
 import { log } from './utils/log.ts'
 import { handleSetInput } from './utils/handleSetInput.ts'
