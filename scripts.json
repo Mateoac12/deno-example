@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "deno run --allow-read --allow-env --allow-write --allow-net index.ts",
+    "bundle": "deno bundle index.ts > ./dist/pokedle.js"
+  }
+}
